@@ -1,0 +1,8 @@
+[submodule "cap-server"]
+	path = cap-server
+	url = https://github.com/cernanalysispreservation/analysispreservation.cern.ch.git
+	branch = master
+[submodule "cap-ui"]
+	path = cap-ui
+	url = https://github.com/cernanalysispreservation/cap-ui.git
+	branch = master
